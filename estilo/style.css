@@ -27,20 +27,18 @@ header {
    color: white;
    height: 150px;
    text-align: center;
-   padding: 20px;
+   padding: 40px;
 }
 
 header > h1 {
    font-family: var(--fontcordel);
    font-size: 3em;
    font-weight: normal;
-   padding-top: 40px;
 
 }
 
 header > p {
     font-family: sans-serif;
-    padding: 5px;
 }
 a {
     color: white;
